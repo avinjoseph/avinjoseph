@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avin Joseph</h1>
+<img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif"  height=500 width=1000>
 <h3 align="center">A passionate full stack developer from India. Also interested in ML, DL and Computer Vision technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
