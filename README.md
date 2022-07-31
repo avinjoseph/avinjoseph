@@ -1,16 +1,21 @@
 <img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif">
 <h3 align="center">A passionate full stack developer from India. Also interested in ML, DL and Computer Vision technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
 
 
-- 🌱 I completed my Bachelor's in Computer Science & Engineering. Currently working as a full stack engineer at [Experion technologies](https://www.experionglobal.com/)
+<h2>👨‍💻About Me</h2>
 
-- 👨‍💻  blahhhhh
+- 👨‍🎓 I completed my Bachelor's in Computer Science & Engineering.
 
-- 💬 Ask me about **Computer Vision, Machine Learning and Deep Learning**
+- 💻 Currently working as a Full stack developer at [Experion technologies](https://www.experionglobal.com/).
 
-- 📫 How to reach me **avin5644@outlook.com**
+- 💡 I like to solve arithematic problems and work on side projects during my free time.
+
+- 🌱 I'm on track for learning more about Computer Vision and NLP.
+
+- 💬 Feel free to reach out to me for any work opportunities or work alongside a project.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +41,7 @@
 
 <h2>📉Statistics</h2>
 
-<div>
+<div flex-direction:row>
   <img align=top src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
   <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
 </div>
