@@ -37,8 +37,8 @@
 <h2>📉Statistics</h2>
 
 <div>
-  <img height=200 align=top src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
-  <img height=200  align=top src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+  <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
 </div>
 
 
