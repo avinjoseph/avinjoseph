@@ -35,9 +35,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h2>Statistics</h2>
-<p><img align="right" height =400 width =400 src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="avinjoseph" /></p>
 
-<p><img align="left" height=400 width=400 src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="avinjoseph" /></p>
+<a href="https://github.com/avinjoseph/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/avinjoseph/">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+</a>
 
 
 </a>
