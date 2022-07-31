@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Avin Joseph</h1>
 <img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif">
 <h3 align="center">A passionate full stack developer from India. Also interested in ML, DL and Computer Vision technologies.</h3>
 
