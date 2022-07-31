@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinjoseph" alt="avinjoseph" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch and Django**
+- 🌱 I completed my Bachelor's in Computer Science & Engineering. Currently working as a full stack engineer at [Experion technologies](https://www.experionglobal.com/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/avinjoseph?tab=repositories](https://github.com/avinjoseph?tab=repositories)
+- 👨‍💻 
 
 - 💬 Ask me about **Computer Vision, Machine Learning and Deep Learning**
 
