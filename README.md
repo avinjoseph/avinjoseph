@@ -37,10 +37,10 @@
 <h2>📉Statistics</h2>
 
 <a href="https://github.com/avinjoseph/">
-  <img align="center" height=300 width=300  src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&card_width=auto&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+  <img align="center" height=350 width=350  src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&card_width=auto&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/avinjoseph/">
-  <img align="center" height=300 width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&card_width=auto&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+  <img align="center" height=350 width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&card_width=auto&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
 </a>
 
 
