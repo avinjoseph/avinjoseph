@@ -36,12 +36,13 @@
 
 <h2>📉Statistics</h2>
 
-<a href="https://github.com/avinjoseph/">
-  <img align="center" height=350 width=350  src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&card_width=auto&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/avinjoseph/">
-  <img align="center" height=350 width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&card_width=auto&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
-</a>
+<div>
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+  <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+</div>
 
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
 
-</a>
