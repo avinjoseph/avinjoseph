@@ -20,9 +20,9 @@
 
 - 👨‍🎓 I completed my Bachelor's in Computer Science & Engineering.
 
-- 💻 Ex Software Engineer at [Experion technologies](https://www.experionglobal.com/).
+- 💻 Former Software Engineer at [Experion technologies](https://www.experionglobal.com/).
 
-- 📑 Currently Pursuing my Masters in Data Science
+- 📑 Currently Pursuing my Masters in Data Science.
 
 - 💡 I like to solve arithematic problems and work on side projects during my free time.
 
