@@ -1,5 +1,10 @@
-<img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif" height="100px">
-<h3 align="center">A passionate full stack developer from India. Also interested in ML, DL and Computer Vision technologies.</h3>
+<img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif" >
+<!-- <h2 align="center">👋 Hello! I am Avin Joseph</h2> -->
+<h1 align="center">
+	<a href="https://git.io/typing.svg">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+ There!+👋;This+is+Avin+Joseph...;Nice+to+meet+you!&center=true&size=30">
+	</a>
+</h1>
 
 <p align="center">
 	<a href="https://linkedin.com/in/linkedin.com/in/avin-joseph-849398168">
@@ -16,7 +21,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
 
 
-<h2>👨‍💻 About Me:</h2>
+<h3>👨‍💻 About Me:</h3>
 
 - 👨‍🎓 I completed my Bachelor's in Computer Science & Engineering.
 
@@ -31,35 +36,47 @@
 - 💬 Feel free to reach out to me for any work opportunities or work alongside a project.
 
 
-<h2>🛠 Tech Stack:</h2>
-<h3>📑 Languages:</h3>
+<h3>📑 Languages :</h3>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
-<h3>🚀 Technologies:</h3>
+<h3>🚀 Technologies :</h3>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCv-000?&logo=OpenCv)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Salesforce](https://img.shields.io/badge/-Salesforce-000?&logo=Salesforce)
+![Contentful](https://img.shields.io/badge/-Contentful-000?&logo=Contentful)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 
 
-<h2>📉Statistics</h2>
 
-<table>
+<h3>📉 Statistics :</h3>
+
+<p align="center">
+	<div align="center">
+		<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+			<img align="left" width=390 src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
+		</a>
+		<a href="https://github.com/anuraghazra/github-reradme-stats">
+			<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=avinjoseph&theme=react&show_icons=true&border_color=61dafb&hide_border=false " />
+		</a>
+	</div>
+</p>
+
+<!-- <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" /></td>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinjoseph&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" /></td>
   </tr>
-</table>
+</table> -->
 
 
