@@ -1,4 +1,4 @@
-<img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif">
+<img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif" height="100px">
 <h3 align="center">A passionate full stack developer from India. Also interested in ML, DL and Computer Vision technologies.</h3>
 
 <p align="center">
