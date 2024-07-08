@@ -1,6 +1,5 @@
 <img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif" >
 <!-- <h2 align="center">👋 Hello! I am Avin Joseph</h2> -->
-<br><br>
 <h1 align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&size=30&center=true&lines=Hello,+ There!+👋;This+is+Avin+Joseph...;Nice+to+meet+you!" alt="Typing SVG" />
