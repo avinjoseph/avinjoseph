@@ -4,9 +4,6 @@
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&size=30&center=true&lines=Hello,+ There!+👋;This+is+Avin+Joseph...;Nice+to+meet+you!" alt="Typing SVG" />
 	</a>
-	<!-- <a href="https://git.io/typing.svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+ There!+👋;This+is+Avin+Joseph...;Nice+to+meet+you!&center=true&size=30">
-	</a> -->
 </h1>
 
 <p align="center">
