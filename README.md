@@ -66,7 +66,7 @@
 		<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
 			<img align="left" width=390 src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
 		</a>
-		<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+		<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
 			<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=avinjoseph&theme=react&show_icons=true&border_color=61dafb&hide_border=false " />
 		</a>
 	</div>
