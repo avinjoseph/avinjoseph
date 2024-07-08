@@ -62,10 +62,10 @@
 <h3>📉 Statistics :</h3>
 
 <p align="center">
-	<img height=50% width=auto src="https://github-readme-stats.vercel.app/api?username=avinjoseph&theme=react&show_icons=true&layout=compact&count_private=true&border_color=61dafb&hide_border=false " />
-	<img height=50% width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&layout=compact&theme=react&border_color=61dafb" />
-	<img src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" width=100% />
+	<img height=50% width=auto src="https://github-readme-stats.vercel.app/api?username=avinjoseph&theme=react&show_icons=true&layout=compact&count_private=true&border_color=61dafb&hide_border=true " />
+	<img height=50% width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&layout=compact&theme=react&border_color=61dafb&hide_border=true" />
+	<img src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=true" alt="avinjoseph"/>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&" width=100% />
 </p>
 
 
