@@ -8,13 +8,13 @@
 
 <p align="center">
 	<a href="https://linkedin.com/in/linkedin.com/in/avin-joseph-849398168">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=white" />
 	</a>
   <a href="https://kaggle.com/https://www.kaggle.com/avinemmatty">
-		<img src="https://img.shields.io/badge/Kaggle-330F63?style=for-the-badge&logo=kaggle&logoColor=white" />
+		<img src="https://img.shields.io/badge/-Kaggle-000?&logo=Kaggle" />
 	</a>
 	<a href="mailto:avin.chelseafc@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" />
 	</a>
 </p>
 
@@ -23,7 +23,7 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-- 👨‍🎓 I completed my Bachelor's in Computer Science & Engineering.
+- 👨‍🎓 Completed Bachelor's in Computer Science & Engineering.
 
 - 💻 Ex - SWE at [Experion technologies](https://www.experionglobal.com/).
 
@@ -46,6 +46,7 @@
 
 <h3>🚀 Technologies :</h3>
 
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCv-000?&logo=OpenCv)
@@ -62,20 +63,21 @@
 <h3>📉 Statistics :</h3>
 
 <p align="center">
-	<div align="center">
-		<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-			<img align="left" width=390 src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
+	<div style="display:flex; flex-direction: row;">
+		<a href="https://github.com/denvercoder1/github-readme-streak-stats" style="padding:10px" title="Go to Source">
+			<img align="left" width=auto src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
 		</a>
-		<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-			<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
+		<a href="https://github.com/anuraghazra/github-readme-stats"  style="padding:10px" title="Go to Source">
+			<img align="right" width=auto src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
 		</a>
 	</div>
-	<br><br><br><br><br><br>
+	<br>
 	<div align="center">
 		<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-		<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
+		<img align="center" width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
 		</a>
 	</div>
+	<br>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" width=100% />
 </p>
 
