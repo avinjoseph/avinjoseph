@@ -65,10 +65,10 @@
 <p align="center">
 	<div style="display:flex; flex-direction: row;">
 		<a href="https://github.com/denvercoder1/github-readme-streak-stats" style="padding:10px" title="Go to Source">
-			<img align="left" width=auto src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
+			<img src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="avinjoseph"/>
 		</a>
 		<a href="https://github.com/anuraghazra/github-readme-stats"  style="padding:10px" title="Go to Source">
-			<img align="right" width=auto src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
+			<img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
 		</a>
 	</div>
 	<br>
