@@ -71,18 +71,21 @@
 			<img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
 		</a>
 	</div>
-	<div class='container'>
-		<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=fals" />
-		&nbsp;
-		&nbsp;
-		<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
-	</div>
 	<br>
 	<div align="center">
 		<a href="https://github.com/denvercoder1/github-readme-streak-stats">
 		<img align="center" width=auto src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" />
 		</a>
 	</div>
+	<br>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" width=100% />
+</p>
+
+<p align="center">
+	<img height="50%" width="auto" src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false">
+	<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5">
+	<img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
+	<br>
 	<br>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" width=100% />
 </p>
