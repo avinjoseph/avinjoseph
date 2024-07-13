@@ -71,6 +71,12 @@
 			<img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
 		</a>
 	</div>
+	<div class='container'>
+		<img style="height: auto; width: 55%;" class="img" src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=fals" />
+		&nbsp;
+		&nbsp;
+		<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only" />
+	</div>
 	<br>
 	<div align="center">
 		<a href="https://github.com/denvercoder1/github-readme-streak-stats">
