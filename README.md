@@ -6,7 +6,7 @@
 	</a>
 </h1>
 
-<p align="center">
+<h5 align="center">
 	<a href="https://linkedin.com/in/linkedin.com/in/avin-joseph-849398168">
 		<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=white" />
 	</a>
@@ -16,9 +16,9 @@
 	<a href="mailto:avin.chelseafc@gmail.com">
 		<img src="https://img.shields.io/badge/-Gmail-000?&logo=Gmail" />
 	</a>
-</p>
+</h5>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="avinjoseph" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avinjoseph&label=Profile%20views&color=61dafb&style=flat" alt="avinjoseph" /> </p>
 
 
 <h3>👨‍💻 About Me:</h3>
