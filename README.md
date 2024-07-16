@@ -25,7 +25,7 @@
 
 - 👨‍🎓 Completed Bachelor's in Computer Science & Engineering.
 
-- 💻 Ex - SWE at [Experion technologies](https://www.experionglobal.com/).
+- 💻 2+ year of experience as a Software Engineer at [Experion technologies](https://www.experionglobal.com/).
 
 - 📑 Currently Pursuing my Masters in Data Science.
 
