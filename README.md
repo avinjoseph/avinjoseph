@@ -29,7 +29,7 @@
 
 - 📑 Currently Pursuing my Masters in Data Science.
 
-- 💡 I like to solve arithematic problems and work on side projects during my free time.
+- 💡 I like to solve arithematic problems and work on projects during my free time.
 
 - 🌱 I'm on track for learning more about Computer Vision and NLP.
 
