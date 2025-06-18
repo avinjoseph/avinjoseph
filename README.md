@@ -1,10 +1,8 @@
 <img src="https://github.com/avinjoseph/avinjoseph/blob/master/avin_joseph.gif" >
 <!-- <h2 align="center">👋 Hello! I am Avin Joseph</h2> -->
-<h1 align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&size=30&center=true&lines=Hello,+ There!+👋;This+is+Avin+Joseph...;Nice+to+meet+you!" alt="Typing SVG" />
-	</a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Avin+Joseph...;Nice+to+meet+you!" alt="Typing SVG" />
+</p>
 
 <h5 align="center">
 	<a href="https://linkedin.com/in/linkedin.com/in/avin-joseph-849398168">
@@ -31,7 +29,7 @@
 
 - 💡 I like to solve arithematic problems and work on projects during my free time.
 
-- 🌱 I'm on track for learning more about Computer Vision and NLP.
+- 🌱 Working Student in Software Development - AI/ML @Dentero HealthTech GmbH. 
 
 - 💬 Feel free to reach out to me for any work opportunities or work alongside a project.
 
