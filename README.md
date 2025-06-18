@@ -21,15 +21,13 @@
 
 <h3>👨‍💻 About Me:</h3>
 
-- 👨‍🎓 Completed Bachelor's in Computer Science & Engineering.
+- 👨‍🎓 Bachelor's in Computer Science & Engineering and currently pursuing my Masters in Data Science.
 
 - 💻 2+ year of experience as a Software Engineer at [Experion technologies](https://www.experionglobal.com/).
 
-- 📑 Currently Pursuing my Masters in Data Science.
+- 📑 Working Student in Software Development - AI/ML @Dentero HealthTech GmbH. 
 
 - 💡 I like to solve arithematic problems and work on projects during my free time.
-
-- 🌱 Working Student in Software Development - AI/ML @Dentero HealthTech GmbH. 
 
 - 💬 Feel free to reach out to me for any work opportunities or work alongside a project.
 
@@ -61,14 +59,24 @@
 <h3>📉 Statistics :</h3>
 
 
+<!-- Two-column layout: Streak + Stats -->
 <p align="center">
-	<img height="50%" width="auto" src="https://streak-stats.demolab.com/?user=avinjoseph&theme=react&border=61dafb&hide_border=false">
-	<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&size_weight=0.5&count_weight=0.5" >
-	<img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react#gh-dark-mode-only&hide_border=true" />
-	<br>
-	<br>
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" width=100% />
+  <img src="https://streak-stats.demolab.com?user=avinjoseph&theme=react&border=61dafb&hide_border=false" alt="GitHub Streak" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinjoseph&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" alt="Top Languages" />
 </p>
+
+<!-- Full width: Top Languages -->
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=avinjoseph&show_icons=true&locale=en&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&border_color=61dafb&theme=react&hide_border=true" alt="GitHub Stats" width="49.5%"/>
+</p>
+
+<!-- Full width: Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinjoseph&theme=react-dark&bg_color=20232a&hide_border=false" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+
 
 
 
