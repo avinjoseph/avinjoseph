@@ -25,7 +25,7 @@
 
 - 💻 2+ year of experience as a Software Engineer at [Experion technologies](https://www.experionglobal.com/).
 
-- 📑 Working Student in Software Development - AI/ML @Dentero HealthTech GmbH. 
+- 📑 Working Student in Software Development - AI/ML [Dentero HealthTech GmbH](https://dentero.de/). 
 
 - 💡 I like to solve arithematic problems and work on projects during my free time.
 
